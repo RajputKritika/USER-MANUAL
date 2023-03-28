@@ -1,2 +1,2 @@
 # USER-MANUAL
-User Manual for AGARO Electric body massager
+## **AGARO Electric body massager**
