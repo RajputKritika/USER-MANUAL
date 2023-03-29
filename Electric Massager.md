@@ -8,7 +8,7 @@
    
   Prepared by – Kritika Rajput
 ## Contents
-1. [Important Safeguards](#https://github.com/RajputKritika/USER-MANUAL.md#important-safeguards)
+1. Important Safeguards(#https://github.com/RajputKritika/USER-MANUAL#"important-safeguards")
 
 2. Product Description
 -	Product Features
@@ -29,7 +29,7 @@
 -	Contact information
 -	FAQs
 
-##  Important Safeguards<a name="important-safeguards"</a>
+##  Important Safeguards <a name="important-safeguards"></a>
 *Prohibited<br/>
 
 -	It is prohibited for minors to use. If injured, it is prohibited to use this device and please consult a doctor before using this device.
