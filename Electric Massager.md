@@ -125,15 +125,15 @@ AGARO electric massager is suitable for all types of massage needs. The massager
 |The device is not turning ON                 |1. Check if the device is properly plugged in.                        | 
 |                                             |2. Make sure that device is turned ON by rotating the speed regulator.|
 |                                             |3. If none of the above works, contact customer care.                 |
-|---------------------------------------------|--------------------------------------------------------------------------------|
+|------------------------------------------------------------|---------------------------------------------------------------------------------|
 |The device is turning OFF automatically.     |1. Check if the device is properly plugged in.                        |
 |                                             |2. Make sure that device is turned ON by rotating the speed regulator.|
 |                                             |3. If none of the above works, contact customer care.                 |
-|---------------------------------------------|--------------------------------------------------------------------------------|
+|------------------------------------------------------------|--------------------------------------------------------------------------------|
 |The device is not providing enough intensity.|1. Ensure that you are using the device in the correct mode and intensity level.|
 |                                             |2. Check the manual to make sure you are using it correctly.|
 |                                             |3. If none of the above works, contact customer care.|
-|---------------------------------------------|--------------------------------------------------------------------------------|
+|------------------------------------------------------------|--------------------------------------------------------------------------------|
 |The device is making an unusual noise.       |1. Make sure that device is clean and free from dirt.|
 |                                             |2. Check if any part of the device is loose or broken.|
 |                                             |3. If none of the above works, contact customer care.|
