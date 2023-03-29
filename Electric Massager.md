@@ -29,7 +29,7 @@
 -	Contact information
 -	FAQs
 
-##  Important Safeguards  (#important-safeguards)
+##  Important Safeguards(#important-safeguards)
 **Prohibited**<br/>
 
 -	It is prohibited for minors to use. If injured, it is prohibited to use this device and please consult a doctor before using this device.
