@@ -8,48 +8,47 @@
    
   Prepared by – Kritika Rajput
 ## Contents
-1. Important Safeguards………………………………………………3
+1. [Important Safeguards](#https://github.com/RajputKritika/USER-MANUAL.md#important-safeguards)
 
-2. Product Description…………………………………………………4</br>
-•	Product Features…………………………………………………………….4</br>
-•	Description of Parts………………………………………………………….4</br>
-•	Different Massage Heads and usage……………………………………...5</br>
-•	Product Specifications………………………………………………………5
+2. Product Description
+-	Product Features
+-	Different Massage Heads and usage
+-	Product Specifications
 
-3. Operation Guide ……………………………………………………6</br>
-•	How to use the Device……………………………………………………...6<br/>
-•	Removal and Replacement of massage head……………………………6<br/>
+3. Operation Guide 
+-	How to use the Device
+-	Removal and Replacement of massage head
 
-4. Usage………………………………………………………………...7
+4. Usage
 
-5. Care and Maintenance…………………………………………….8</br>
-•	Troubleshooting……………………………………………………………..8<br/>
+5. Care and Maintenance
+-	Troubleshooting
 
 
-6.Customer Support…………………………………………………..9</br>
-•	Contact information………………………………………………………….9<br/>
-•	FAQs………………………………………………………………………….9
+6.Customer Support
+-	Contact information
+-	FAQs
 
-## Important Safeguards
-
+##  Important Safeguards<a name="important-safeguards"</a>
 *Prohibited<br/>
 
-•	It is prohibited for minors to use. If injured, it is prohibited to use this device and please consult a doctor before using this device.<br/>
-•	It is prohibited to use on the non-dry surface of the skin. It should be used across the clothes and gently pressed and moved on the skin for a limited time.<br/>
-•	Do not use it above any hard part or boned part of the body, or any sensitive part of the body.<br/>
-•	Do not massage on open wounds, stop use if you have any signs of abnormal pain or discomfort.<br/>
-•	Do not use the device if you have a medical implant such as a pacemaker, as it may interfere with the device.<br/>
-•	Do not immerse in water or allow water to enter the parts of the product.<br/>
-•	Do not drop or improperly use the product.<br/>
-•	Do not disassemble the screws or attempt to disassemble the parts of the device.<br/>
-•	Only use the device one hour after taking the meals.<br/>
-•	After using, before cleaning, and while replacing the massage heads, please make sure that the device has been unplugged.<br/>
-•	If the power cord is damaged, please replace it or get it repaired before using the device again.<br/>
-•	Do not use the device on the same area of the body part for more than 15 minutes. Do not overuse the device.<br/>
-•	Pregnant women, and people with any kind of skin disease, heart disease, and other diseases should not use this product.<br/>
-•	Keep the device away from liquids and heat sources.<br/>
-•	Carefully inspect the equipment before each use.<br/>
-•	Please use the device according to the instructions for use.<br/>
+-	It is prohibited for minors to use. If injured, it is prohibited to use this device and please consult a doctor before using this device.
+-	It is prohibited to use on the non-dry surface of the skin. It should be used across the clothes and gently pressed and moved on the skin for a limited time.
+-	Do not use it above any hard part or boned part of the body, or any sensitive part of the body.
+-	Do not massage on open wounds, stop use if you have any signs of abnormal pain or discomfort.
+-	Do not use the device if you have a medical implant such as a pacemaker, as it may interfere with the device.
+-	Do not immerse in water or allow water to enter the parts of the product.
+-	Do not drop or improperly use the product.
+-	Do not disassemble the screws or attempt to disassemble the parts of the device.
+-	Only use the device one hour after taking the meals.
+-	After using, before cleaning, and while replacing the massage heads, please make sure that the device has been unplugged.
+-	If the power cord is damaged, please replace it or get it repaired before using the device again.
+-	Do not use the device on the same area of the body part for more than 15 minutes. Do not overuse the device.
+-	Pregnant women, and people with any kind of skin disease, heart disease, and other diseases should not use this product.
+-	Keep the device away from liquids and heat sources.
+-	Carefully inspect the equipment before each use.
+-	Please use the device according to the instructions for use.
+
 ## Product Description
 
 AGARO electric massager is suitable for all types of massage needs. The massager can provide pain relief and a relaxing experience. It comes with a protective mesh cloth cover and 4 massage heads including a flat massage head, ball massage head, wavy massage head, and scrubber massage head. All these massage heads can be interchanged hassle-free and provide different massaging effects. It is a fully electric massager with changeable rotational speed. The motor within the machine is made of pure copper for high energy efficiency, superior performance & enhanced motor life. The machine design is handheld, lightweight, and easy to use. The protective cloth cover is easy to remove while cleaning and replacement of heads. The protective mesh cover is soft and skin-friendly to have a smooth massage feel on the skin. The massage intensity can be adjusted as per the user’s comfort. It is ideal for relaxing the waist, arms, feet, shoulders, and legs with a spa-like experience at your home. It has adjustable massage strength.
@@ -58,8 +57,8 @@ AGARO electric massager is suitable for all types of massage needs. The massager
 ![description of parts](https://user-images.githubusercontent.com/127011966/228494358-12ebce55-fdd6-4056-abec-bdbf8f01370b.png)
 
 ### Different Massage Heads and Usage
-
-![massage heads](https://user-images.githubusercontent.com/127011966/228494894-c9d0db13-1268-4c9f-9d24-ea04b4819bf5.png)![mesh cover](https://user-images.githubusercontent.com/127011966/228495049-9e2ab72c-3bc6-4c72-8b78-dc919f4644aa.png)
+![massage heads](https://user-images.githubusercontent.com/127011966/228494894-c9d0db13-1268-4c9f-9d24-ea04b4819bf5.png) 
+![mesh cover](https://user-images.githubusercontent.com/127011966/228495049-9e2ab72c-3bc6-4c72-8b78-dc919f4644aa.png)
 
  
  
@@ -67,13 +66,13 @@ AGARO electric massager is suitable for all types of massage needs. The massager
 
 
 ### Product Specifications
-•	Product Dimensions- 20.6L x 20.6W x 12.4H Centimetre<br/>	
-•       Item Weight- 950 Grams<br/>
-•	Power Source- Electric cord<br/>
-•	Rated Power- 28W<br/>
-•	Rotation Speed- 1500-2900 RPM<br/>
-•	Power cord length- 1.8 meters<br/>
-•	Machine material- ABS plastic body
+-	Product Dimensions- 20.6L x 20.6W x 12.4H Centimetre	
+-       Item Weight- 950 Grams
+-	Power Source- Electric cord
+-	Rated Power- 28W
+-	Rotation Speed- 1500-2900 RPM
+-	Power cord length- 1.8 meters
+-	Machine material- ABS plastic body
 
 
 
@@ -104,21 +103,18 @@ AGARO electric massager is suitable for all types of massage needs. The massager
 
 
 
-Care and Maintenance
-•	Always store the machine in a clean place and away from direct sunlight.
-•	Do not pull the cord or pull the product with the cord directly from the plug.
-•	Do not put it into the water or clean any part of the machine with water.
-•	Always make use of a soft cloth for cleaning the machine.
-•	Always unplug the machine if not in use or clean it.
-•	Do not use the machine continuously for a very long time as it may lead to heat up of the machine.
-•	Do not disassemble the screws or attempt to disassemble the parts of the device.
-•	Do not use the device if the plug cord is damaged or if the device is not working properly.
+## Care and Maintenance
+-	Always store the machine in a clean place and away from direct sunlight.
+-	Do not pull the cord or pull the product with the cord directly from the plug.
+-	Do not put it into the water or clean any part of the machine with water.
+-	Always make use of a soft cloth for cleaning the machine.
+-	Always unplug the machine if not in use or clean it.
+-	Do not use the machine continuously for a very long time as it may lead to heat up of the machine.	
+-	Do not disassemble the screws or attempt to disassemble the parts of the device.
+-	Do not use the device if the plug cord is damaged or if the device is not working properly.
 
 
-Troubleshooting
-
-
-
+### Troubleshooting
 
 
 
@@ -132,36 +128,39 @@ Troubleshooting
 
 
 
-Customer Support
-Contact us:- +91-768…..09
-E-mail: customercare@gmail.com
+
+
+
+## Customer Support
+Contact us:- +91-768…..09<br/>
+E-mail: customercare@gmail.com<br/>
 Website: www.agaro.com
 
-Frequently Asked Questions (FAQs)
+### **Frequently Asked Questions (FAQs)**
 
-1. How often should I use this body massager?
- You can use the massager as often as you like, but you should not use it for more than 20-30 minutes.
+**1**. How often should I use this body massager?
+- *You can use the massager as often as you like, but you should not use it for more than 20-30 minutes.*
 
-2. Can I use the massager on any part of the body?
- Yes, you can use the massager on any part of the body, but avoid using it on sensitive areas and boned areas of the body.
+**2**. Can I use the massager on any part of the body?
+-  *Yes, you can use the massager on any part of the body, but avoid using it on sensitive areas and boned areas of the body.*
 
-3. Can I use the massager if I have a medical condition?
- We recommend you consult your doctor before using the massager if you have a medical condition.
+**3**. Can I use the massager if I have a medical condition?
+- *We recommend you consult your doctor before using the massager if you have a medical condition.*
 
-4. How to replace the massage head?
- To replace the massage head, first remove the current one from the device as described in the manual and attach the new one to that place of the device.
+**4**. How to replace the massage head?
+- *To replace the massage head, first remove the current one from the device as described in the manual and attach the new one to that place of the device.*
 
-5. How to clean the massage head?
- You can clean the massage head using a soft cloth. Avoid using water and another cleaning agent to clean it.
+**5**. How to clean the massage head?
+- *You can clean the massage head using a soft cloth. Avoid using water and another cleaning agent to clean it.*
 
-6. What should I do if the device is not working properly?
- Check the troubleshooting section in the user manual for possible solutions. If you don’t find it useful for solving your query then you can contact customer care services.
+**6**. What should I do if the device is not working properly?
+- *Check the troubleshooting section in the user manual for possible solutions. If you don’t find it useful for solving your query then you can contact customer care services.*
 
-7. Can I use the massager while pregnant?
- We recommend you consult your doctor before using the massager during pregnancy.
+**7**. Can I use the massager while pregnant?
+- *We recommend you consult your doctor before using the massager during pregnancy.*
 
-8. Can I use the massager for the scalp massage?
- No, we recommend you use this product only for the body parts like arms, shoulders, back, etc.
+**8**. Can I use the massager for the scalp massage?
+- *No, we recommend you use this product only for the body parts like arms, shoulders, back, etc.*
 
 
 
