@@ -19,7 +19,7 @@
 -	How to use the Device
 -	Removal and Replacement of massage head
 
-4. [Usage](#usage-easy-to-reach-all-body-parts)
+4. [Usage](#usage)
 
 5. [Care and Maintenance](#care-and-maintenance)
 -	Troubleshooting
@@ -90,8 +90,10 @@ AGARO electric massager is suitable for all types of massage needs. The massager
 ### Removal and Replacement of the Massage Head
 ![replacing of head](https://user-images.githubusercontent.com/127011966/228493636-06f67848-3c3f-4ea0-b959-1b2ff1909683.png)
 
-<a id ="#usage-easy-to-reach-all-body-parts"></a>
-## Usage–Easy to Reach All Body Parts
+<a id ="#usage"></a>
+## Usage
+***>>"Easy to Reach All Body Parts"<<***
+
 ![usage](https://user-images.githubusercontent.com/127011966/228493902-913a6b7b-1f7f-44cf-a5dd-4d484d6cd4f5.png)
 
 
