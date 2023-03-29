@@ -3,7 +3,7 @@
 ![massager](https://user-images.githubusercontent.com/127011966/228306602-5f416e97-d4e5-422b-ac9b-b8637fc6fb9c.jpg)<br/>
 [Product Model-8806]<br/>
 
-*“Thank you for purchasing the AGARO Electric Body Massager. Please read the User Manual carefully before use and keep it in a convenient place for future reference.”*
+***“Thank you for purchasing the AGARO Electric Body Massager. Please read the User Manual carefully before use and keep it in a convenient place for future reference.”****
         
    
   Prepared by – Kritika Rajput
@@ -29,7 +29,7 @@
 -	Contact information
 -	FAQs
 
-##  Important Safeguards(#important-safeguards)
+##  Important Safeguards <a id ="#important-safeguards"></a>
 **Prohibited**<br/>
 
 -	It is prohibited for minors to use. If injured, it is prohibited to use this device and please consult a doctor before using this device.
@@ -67,7 +67,7 @@ AGARO electric massager is suitable for all types of massage needs. The massager
 
 ### Product Specifications
 -	Product Dimensions- 20.6L x 20.6W x 12.4H Centimetre	
--       Item Weight- 950 Grams
+-	Item Weight- 950 Grams
 -	Power Source- Electric cord
 -	Rated Power- 28W
 -	Rotation Speed- 1500-2900 RPM
@@ -115,8 +115,25 @@ AGARO electric massager is suitable for all types of massage needs. The massager
 
 
 ### Troubleshooting
-
-
+|Problem                                      | Solution                                                             |
+|---------------------------------------------|----------------------------------------------------------------------|
+|The device is not turning ON                 |1. Check if the device is properly plugged in.                        | 
+|                                             |2. Make sure that device is turned ON by rotating the speed regulator.|
+|                                             |3. If none of the above works, contact customer care.                 |
+|---------------------------------------------|--------------------------------------------------------------------------------|
+|The device is turning OFF automatically.     |1. Check if the device is properly plugged in.                        |
+|                                             |2. Make sure that device is turned ON by rotating the speed regulator.|
+|                                             |3. If none of the above works, contact customer care.                 |
+|---------------------------------------------|--------------------------------------------------------------------------------|
+|The device is not providing enough intensity.|1. Ensure that you are using the device in the correct mode and intensity level.|
+|                                             |2. Check the manual to make sure you are using it correctly.|
+|                                             |3. If none of the above works, contact customer care.|
+|---------------------------------------------|--------------------------------------------------------------------------------|
+|The device is making an unusual noise.       |1. Make sure that device is clean and free from dirt.|
+|                                             |2. Check if any part of the device is loose or broken.|
+|                                             |3. If none of the above works, contact customer care.|
+|                                             |4. Check whether the massage head is attached properly to the device.|
+|                                             |5. If none of the above works, contact customer care.|
 
 
 
