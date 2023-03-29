@@ -9,20 +9,26 @@
   Prepared by – Kritika Rajput
 ## Contents
 1. Important Safeguards………………………………………………3
+
 2. Product Description…………………………………………………4</br>
 •	Product Features…………………………………………………………….4</br>
-•	Description of Parts………………………………………………………….4<br/>
-•	Different Massage Heads and usage……………………………………...5<br/>
-•	Product Specifications………………………………………………………5</br>
-3. Operation Guide ……………………………………………………6<br/>
+•	Description of Parts………………………………………………………….4</br>
+•	Different Massage Heads and usage……………………………………...5</br>
+•	Product Specifications………………………………………………………5
+
+3. Operation Guide ……………………………………………………6</br>
 •	How to use the Device……………………………………………………...6<br/>
 •	Removal and Replacement of massage head……………………………6<br/>
-4. Usage………………………………………………………………...7<br/>
-5. Care and Maintenance…………………………………………….8<br/>
+
+4. Usage………………………………………………………………...7
+
+5. Care and Maintenance…………………………………………….8</br>
 •	Troubleshooting……………………………………………………………..8<br/>
-6. Customer Support…………………………………………………..9<br/>
+
+
+6.Customer Support…………………………………………………..9</br>
 •	Contact information………………………………………………………….9<br/>
-•	FAQs………………………………………………………………………….9<br/>
+•	FAQs………………………………………………………………………….9
 
 ## Important Safeguards
 
@@ -47,30 +53,32 @@
 ## Product Description
 
 AGARO electric massager is suitable for all types of massage needs. The massager can provide pain relief and a relaxing experience. It comes with a protective mesh cloth cover and 4 massage heads including a flat massage head, ball massage head, wavy massage head, and scrubber massage head. All these massage heads can be interchanged hassle-free and provide different massaging effects. It is a fully electric massager with changeable rotational speed. The motor within the machine is made of pure copper for high energy efficiency, superior performance & enhanced motor life. The machine design is handheld, lightweight, and easy to use. The protective cloth cover is easy to remove while cleaning and replacement of heads. The protective mesh cover is soft and skin-friendly to have a smooth massage feel on the skin. The massage intensity can be adjusted as per the user’s comfort. It is ideal for relaxing the waist, arms, feet, shoulders, and legs with a spa-like experience at your home. It has adjustable massage strength.
-![features](https://user-images.githubusercontent.com/127011966/228333802-d43dc134-7052-4498-9a0a-3cb055cc5093.png)
-![description of parts](https://user-images.githubusercontent.com/127011966/228334078-0122a355-9ec4-4e0f-af69-464cfbd185b7.png)
+
+![features](https://user-images.githubusercontent.com/127011966/228494211-6b7387d8-50d5-41cb-bf53-52bfbf8ed652.png)
+![description of parts](https://user-images.githubusercontent.com/127011966/228494358-12ebce55-fdd6-4056-abec-bdbf8f01370b.png)
+
 ### Different Massage Heads and Usage
-![massage heads](https://user-images.githubusercontent.com/127011966/228333265-e0037f53-c07a-4b80-8bca-1549bff2f527.png)
-![mesh cover](https://user-images.githubusercontent.com/127011966/228333367-0b9c6ed5-614c-4cc4-b4fb-7989c2d35317.png)
+
+![massage heads](https://user-images.githubusercontent.com/127011966/228494894-c9d0db13-1268-4c9f-9d24-ea04b4819bf5.png)![mesh cover](https://user-images.githubusercontent.com/127011966/228495049-9e2ab72c-3bc6-4c72-8b78-dc919f4644aa.png)
 
  
  
 
 
 
-Product Specifications
-•	Product Dimensions- 20.6L x 20.6W x 12.4H Centimetres
-•	Item Weight- 950 Grams
-•	Power Source- Electric cord
-•	Rated Power- 28W
-•	Rotation Speed- 1500-2900 RPM
-•	Power cord length- 1.8 meters
+### Product Specifications
+•	Product Dimensions- 20.6L x 20.6W x 12.4H Centimetre<br/>	
+•       Item Weight- 950 Grams<br/>
+•	Power Source- Electric cord<br/>
+•	Rated Power- 28W<br/>
+•	Rotation Speed- 1500-2900 RPM<br/>
+•	Power cord length- 1.8 meters<br/>
 •	Machine material- ABS plastic body
 
 
 
 
-Operation Guide.
+### Operation Guide.
 1.	Insert the power plug into the suitable power outlet.
 2.	Rotate the speed controller clockwise to turn ON the device.
 3.	Rotate the speed controller to adjust or increase the intensity of the massager according to the user’s comfort.
@@ -78,19 +86,12 @@ Operation Guide.
 5.	Rotate the speed controller anti-clockwise to turn OFF the device.
 6.	After use, make sure to turn OFF the power plug of the socket.
 
-Removal and Replacement of the Massage Head
+### Removal and Replacement of the Massage Head
+![replacing of head](https://user-images.githubusercontent.com/127011966/228493636-06f67848-3c3f-4ea0-b959-1b2ff1909683.png)
 
- 
+## Usage – Easy to Reach All Body Parts
+![usage](https://user-images.githubusercontent.com/127011966/228493902-913a6b7b-1f7f-44cf-a5dd-4d484d6cd4f5.png)
 
-
-
-
-
-
-
-
-
-Usage – Easy to Reach All Body Parts
 
  
 
