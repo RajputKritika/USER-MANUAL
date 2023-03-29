@@ -10,26 +10,27 @@
 ## Contents
 1. [Important Safeguards](#important-safeguards)
 
-2. Product Description
+2. [Product Description](#product-description)
 -	Product Features
 -	Different Massage Heads and usage
 -	Product Specifications
 
-3. Operation Guide 
+3. [Operation Guide](#operation-guide) 
 -	How to use the Device
 -	Removal and Replacement of massage head
 
-4. Usage
+4. [Usage](#usage)
 
-5. Care and Maintenance
+5. [Care and Maintenance](#care-and-maintenance)
 -	Troubleshooting
 
 
-6.Customer Support
+6.{Customer Support](#customer-support)
 -	Contact information
 -	FAQs
 
-##  Important Safeguards <a id ="#important-safeguards"></a>
+<a id ="#important-safeguards"></a>
+##  Important Safeguards 
 **Prohibited**<br/>
 
 -	It is prohibited for minors to use. If injured, it is prohibited to use this device and please consult a doctor before using this device.
@@ -49,6 +50,7 @@
 -	Carefully inspect the equipment before each use.
 -	Please use the device according to the instructions for use.
 
+<a id ="#product-description"></a>
 ## Product Description
 
 AGARO electric massager is suitable for all types of massage needs. The massager can provide pain relief and a relaxing experience. It comes with a protective mesh cloth cover and 4 massage heads including a flat massage head, ball massage head, wavy massage head, and scrubber massage head. All these massage heads can be interchanged hassle-free and provide different massaging effects. It is a fully electric massager with changeable rotational speed. The motor within the machine is made of pure copper for high energy efficiency, superior performance & enhanced motor life. The machine design is handheld, lightweight, and easy to use. The protective cloth cover is easy to remove while cleaning and replacement of heads. The protective mesh cover is soft and skin-friendly to have a smooth massage feel on the skin. The massage intensity can be adjusted as per the user’s comfort. It is ideal for relaxing the waist, arms, feet, shoulders, and legs with a spa-like experience at your home. It has adjustable massage strength.
@@ -76,7 +78,7 @@ AGARO electric massager is suitable for all types of massage needs. The massager
 
 
 
-
+<a id ="#operation-guide"></a>
 ### Operation Guide.
 1.	Insert the power plug into the suitable power outlet.
 2.	Rotate the speed controller clockwise to turn ON the device.
@@ -88,6 +90,7 @@ AGARO electric massager is suitable for all types of massage needs. The massager
 ### Removal and Replacement of the Massage Head
 ![replacing of head](https://user-images.githubusercontent.com/127011966/228493636-06f67848-3c3f-4ea0-b959-1b2ff1909683.png)
 
+<a id ="#usage"></a>
 ## Usage – Easy to Reach All Body Parts
 ![usage](https://user-images.githubusercontent.com/127011966/228493902-913a6b7b-1f7f-44cf-a5dd-4d484d6cd4f5.png)
 
@@ -102,7 +105,7 @@ AGARO electric massager is suitable for all types of massage needs. The massager
 
 
 
-
+<a id ="#care-and-maintenance"></a>
 ## Care and Maintenance
 -	Always store the machine in a clean place and away from direct sunlight.
 -	Do not pull the cord or pull the product with the cord directly from the plug.
@@ -147,7 +150,7 @@ AGARO electric massager is suitable for all types of massage needs. The massager
 
 
 
-
+<a id ="#customer-support"></a>
 ## Customer Support
 Contact us:- +91-768…..09<br/>
 E-mail: customercare@gmail.com<br/>
