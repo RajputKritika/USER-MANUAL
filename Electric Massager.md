@@ -8,7 +8,7 @@
    
   Prepared by – Kritika Rajput
 ## Contents
-1. [Important Safeguards](https://github.com/RajputKritika/USER-MANUAL.md#important-safeguards)
+1. [Important Safeguards](github.com/RajputKritika/USER-MANUAL.md#important-safeguards)
 
 2. Product Description
 -	Product Features
