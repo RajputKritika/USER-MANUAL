@@ -30,7 +30,7 @@
 -	FAQs
 
 ##  Important Safeguards  {#important-safeguards}
-*Prohibited<br/>
+**Prohibited**<br/>
 
 -	It is prohibited for minors to use. If injured, it is prohibited to use this device and please consult a doctor before using this device.
 -	It is prohibited to use on the non-dry surface of the skin. It should be used across the clothes and gently pressed and moved on the skin for a limited time.
